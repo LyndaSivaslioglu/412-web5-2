@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>COMPANY NAME</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>COMPANY NAME</h1>
+      <p>Your Trusted Mechanic</p>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#home">HOME</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="#services">SERVICES</a></li>
+        <li><a href="#gallery">GALLERY</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+      </ul>
+    </nav>
+
+    <section id="about">
+      <h2>ABOUT</h2>
+      <p>blah blah blah</p>
+    </section>
+
+    <section id="services">
+      <h2>SERVICES</h2>
+      <ul>
+        <li>Brake Repair</li>
+        <li>Oil Changes</li>
+        <li>Engine Diagnostics</li>
+        <li>Transmission Services</li>
+        <li>ect...ect...ect</li>
+      </ul>
+    </section>
+
+    <section id="gallery">
+        <h2>GALLERY</h2>
+            <img src="image1.jpg" alt="Image 1">
+            <p>Image 1</p>
+        </div>
+    </section>
+
+    <section id="contact">
+      <h2>CONTACT</h2>
+      <p>
+        Location:...<br />
+        Call us:...<br />
+        Email:...
+      </p>
+    </section>
+
+    <footer>
+      <p>&copy; 2023 COMPANY NAME</p>
+    </footer>
+  </body>
+</html>
+
