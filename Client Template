@@ -3,60 +3,103 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>COMPANY NAME</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Auto Hanna</title>
   </head>
-
   <body>
-    <header>
-      <h1>COMPANY NAME</h1>
-      <p>Your Trusted Mechanic</p>
-    </header>
+    <div class="background-image">
+      <div class="text">
+        <h1>
+          AUTO REPAIR <br />
+          SERVICES
+        </h1>
+        <p>
+          Welcome to Auto Hanna, your trusted mechanic <br />
+          for top-quality automotive care and repair services.
+        </p>
+        <a href="#contact" class="my-button">CALL NOW</a> 
+      </div>
+    </div>
 
-    <nav>
-      <ul>
-        <li><a href="#home">HOME</a></li>
-        <li><a href="#about">ABOUT</a></li>
-        <li><a href="#services">SERVICES</a></li>
-        <li><a href="#gallery">GALLERY</a></li>
-        <li><a href="#contact">CONTACT</a></li>
-      </ul>
-    </nav>
+    <div class="navbar">
+      <img src="images/logo.png" alt="Logo" />
+      <a href="#contact">CONTACT</a>
+      <a href="#gallery">GALLERY</a>
+      <a href="#services">SERVICES</a>
+      <a href="#about">ABOUT</a>
+      <a href="#">HOME</a>
+
+    </div>
 
     <section id="about">
-      <h2>ABOUT</h2>
-      <p>blah blah blah</p>
+      <div class="about">
+        <h1>ABOUT US</h1>
+        <p>
+          At Auto Hanna, we take pride in providing top-notch automotive
+          services to our valued customers. With years of experience and a
+          commitment to excellence, we've become a trusted name in the world of
+          auto repair and maintenance.
+        </p>
+        <p>
+          We understand the importance of your vehicle in your daily life.
+          Whether it's routine maintenance, repairs, or diagnostics, we are here
+          to ensure your vehicle is in its best condition, providing you with
+          peace of mind and safety on the road.
+        </p>
+        <p>
+          At Our Mechanic Shop, we understand the importance of your vehicle in
+          your daily life. Whether it's routine maintenance, repairs, or
+          diagnostics, we are here to ensure your vehicle is in its best
+          condition, providing you with peace of mind and safety on the road.
+        </p>
+      </div>
+
+      <div class="container">
+        <img src="images/about.JPG" />
+      </div>
     </section>
 
     <section id="services">
-      <h2>SERVICES</h2>
-      <ul>
-        <li>Brake Repair</li>
-        <li>Oil Changes</li>
-        <li>Engine Diagnostics</li>
-        <li>Transmission Services</li>
-        <li>ect...ect...ect</li>
-      </ul>
-    </section>
+      <div class="services">
+        <h1>SERVICES</h1>
+        <p>
+          blah blah
+        </p>
+      </div>
+</section>
 
     <section id="gallery">
-        <h2>GALLERY</h2>
-            <img src="image1.jpg" alt="Image 1">
-            <p>Image 1</p>
+<div class="gallery">
+  <h1>GALLERY</h1>
+  <p>Scroll...</p>
+    <div class="gallery-container">
+      <img src="images/slide1.jpg" alt="Image 1">
+      <img src="images/slide2.JPG" alt="Image 2">
+      <img src="images/slide3.JPG" alt="Image 3">
+      <img src="images/slide4.JPG" alt="Image 4">
+      <img src="images/slide5.JPG" alt="Image 5">
+      <img src="images/slide6.JPG" alt="Image 6">
+      <img src="images/slide7.JPG" alt="Image 7">
+      <img src="images/slide8.JPG" alt="Image 8">
+      <img src="images/slide9.JPG" alt="Image 9">
+      <!-- Add more images as needed -->
+    </div>
+</section>
+
+
+    <div class="container">
+        <div class="contact">
+          <img src="images/contact.JPG" alt="Contact Image">
+           <h1>Contact Our Mechanic Shop <br>>
+     Get in Touch with Us Today</h1>
+            <h2>Contact Information</h2>
+            <p>Montreal, Qc</p>
+            <p>Phone: (438) 925-1803</p>
+            <p>Email: <a href="mailto:hisperedon@gmail.com"> hisperedon@gmail.com</a></p>
         </div>
-    </section>
+        </section>
 
-    <section id="contact">
-      <h2>CONTACT</h2>
-      <p>
-        Location:...<br />
-        Call us:...<br />
-        Email:...
-      </p>
-    </section>
-
-    <footer>
-      <p>&copy; 2023 COMPANY NAME</p>
-    </footer>
   </body>
 </html>
+
 
