@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
     <title>Auto Hanna</title>
   </head>
   <body>
@@ -34,39 +35,119 @@
     <section id="about">
       <div class="about">
         <h1>ABOUT US</h1>
-        <p>
-          At Auto Hanna, we take pride in providing top-notch automotive
-          services to our valued customers. With years of experience and a
-          commitment to excellence, we've become a trusted name in the world of
-          auto repair and maintenance.
+        <p>    Auto Hanna was founded by Hanna Isberdon. Born in Tartus, Syria 
+          he was passionate about cars from the young age of 10 years old where 
+          he helped his father fix cars in their garage. In 2016, he immigrated 
+          to Canada with his family and decided to study in the field he was most
+           passionate about, auto mechanics. He graduated with honors and ambitiously 
+           opened his own business Auto Hanna. Hanna’s dedication in the business has 
+           proved that if you love what you are doing, you will never work a day in your life.  
+ 
         </p>
-        <p>
-          We understand the importance of your vehicle in your daily life.
-          Whether it's routine maintenance, repairs, or diagnostics, we are here
-          to ensure your vehicle is in its best condition, providing you with
-          peace of mind and safety on the road.
-        </p>
-        <p>
-          At Our Mechanic Shop, we understand the importance of your vehicle in
-          your daily life. Whether it's routine maintenance, repairs, or
-          diagnostics, we are here to ensure your vehicle is in its best
-          condition, providing you with peace of mind and safety on the road.
+         At Auto Hanna, we take pride in providing top-notch automotive services to our 
+         valued customers. With a passion for automobiles and a commitment to service excellence, 
+         we have been proudly serving Montreal and its surroundings for over 2 years. We understand 
+         the importance of quality and efficient work and we do our utmost best to meet it. Whether 
+         it is for a routine maintenance, repairs, or diagnostics, at Auto Hanna we are here to ensure 
+         the best possible experience.  We know how important your vehicle is and strive to provide you 
+         with fast and efficient service, for you to get back on the road! Looking forward to serving you 
+         at Auto Hanna.</p>
+
         </p>
       </div>
 
-      <div class="container">
+      <div class="about">
         <img src="images/about.JPG" />
       </div>
     </section>
 
+
     <section id="services">
       <div class="services">
-        <h1>SERVICES</h1>
-        <p>
-          blah blah
-        </p>
-      </div>
+        <h1>OUR SERVICES</h1>
+        <h2>We have a wide range of services</h2>
+          <div class="service-container">
+        <div class="service-box">
+            <i class="fas fa-wrench"></i>
+            <h3>Brake Repairs</h3>
+            <p>Trust us with your brake system. We provide top-quality brake repairs and replacements to keep you safe on the road.</p>
+        </div>
+
+        <div class="service-box">
+            <i class="fas fa-oil-can"></i>
+            <h3>Oil Changes</h3>
+            <p>Regular oil changes are essential for engine health. We offer quick and affordable oil change services.</p>
+        </div>
+
+   <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+
+
+        <div class="service-box">
+            <i class="fas fa-car-battery"></i>
+            <h3>Battery Services</h3>
+            <p>If your car won't start, it may be a battery issue. We offer battery testing, charging, and replacement services.</p>
+        </div>
+        </div>
+        
+          <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+
+  <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+        
+  <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+
+        <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+
+ <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+
+ <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+
+         <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+
+         <div class="service-box">
+            <i class="fas fa-car"></i>
+            <h3>Tire Maintenance</h3>
+            <p>Proper tire maintenance is crucial for safety and fuel efficiency. We offer tire rotations, balancing, and replacements.</p>
+        </div>
+    </div>
+
+    
+    
+</div>
 </section>
+
+
 
     <section id="gallery">
 <div class="gallery">
@@ -87,17 +168,20 @@
 </section>
 
 
-    <div class="container">
-        <div class="contact">
-          <img src="images/contact.JPG" alt="Contact Image">
-           <h1>Contact Our Mechanic Shop <br>>
-     Get in Touch with Us Today</h1>
-            <h2>Contact Information</h2>
-            <p>Montreal, Qc</p>
+
+<section id="contact">
+      <div class="contact">
+        <img src="images/contact.JPG" alt="Contact Image">
+        <h1>CONTACT US</h1>
+        <h2>Contact Our Mechanic Shop Get in Touch with Us Today</h2>
+        <p>
+         We have a wide range of services
+        <p>Montreal, Qc</p>
             <p>Phone: (438) 925-1803</p>
             <p>Email: <a href="mailto:hisperedon@gmail.com"> hisperedon@gmail.com</a></p>
-        </div>
-        </section>
+      </div>
+</section>
+  
 
   </body>
 </html>
